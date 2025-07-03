@@ -39,7 +39,7 @@ The following NuGet packages have been installed:
 
 ---
 
-## 🔗 Database Connection
+## 🔗 Database Connection and Begining Information
 
 Update your `Web.config` file with the following connection string:
 
